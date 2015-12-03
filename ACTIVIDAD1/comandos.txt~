@@ -1,0 +1,37 @@
+Inicio de la conversación
+5 amigos en común, incluidos Iván Ham y Cristian Alberto Dávila Lara
+hace unos segundos
+Resumen de comandos en Emacs
+
+-Comandos super basicos y necesarios:
+Ctrl-g aborta el ultimo comando.
+Ctrl-x Ctrl-s Guarda el Archivo.
+Ctrl-x Ctrl-c Salir de Emacs.
+Ctrl-x Ctrl-f Insertar un archivo desde Emacs.
+Ctrl-x Ctrl-w Escribir a Memoria.
+
+-Movimiento:
+Esc-< Irse al inicio del archivo.
+Esc-> Irse al final del archivo.
+Ctrl-v Moverse una pagina hacia abajo.
+Esc-v Moverse hacia al apgina anterior.
+Ctrl-f (flecha -> ) Mueve el cursor hacia enfrente.
+Ctrl-b (flecha <- ) Mueve el cursor hacia atrás.
+Ctrl-n (flecha) Mueve el cursor hacia el siguiente renglon.
+Ctrl-p (flecha) Mueve eñ cursor hacia el renglon previo.
+Ctrl-a  Inicio del Renglon.
+Ctrl-e  Final del Renglon.
+
+-Borrado:
+Ctrl-d Borra caracter sobre el cursor hacia enfrente.
+Delete Borra caracter sobre el cursor hacia atras.
+Esc + d Borra palabra sobre el cursor facia enfrente.
+Esc + BackSpace Borra palabra sobre el cursor hacia atras.
+Ctrl-k guarda en memoria todo hacia la derecha del cursor.
+Ctrl-y Pega lo que esta en la Memoria.
+Ctrl-w Limpia la Seccion mandandola en la memoria temporal.
+
+-Búsqueda:
+Ctrl-s Busca caractéres ingresados y posiciona el cursor hacia delante de lo buscado.
+Ctrl-r Busca caractéres ingresados y posiciona el cursor atrás de estos.
+Fin de la conversación
